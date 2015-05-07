@@ -1,3 +1,5 @@
+Unfortunately GrooveShark.com has been shut down on April 30, 2015.
+
 # gs-public-api-v3
 
 Grooveshark Public Api v3
